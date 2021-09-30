@@ -1,0 +1,1 @@
+FROM wcow103/cowden_rails_envtest
